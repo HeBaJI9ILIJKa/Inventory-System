@@ -7,7 +7,8 @@ https://user-images.githubusercontent.com/116473771/214877133-b3c6191a-382c-4f7a
 
 ----------------------------------
 
-Реализация в рабочем проекте.
+Реализация в рабочем проекте. 
+https://github.com/RedO17th/LestaProject
 
 https://user-images.githubusercontent.com/116473771/219691885-71cee36b-65e3-4a04-a62e-19d5b2eec250.mp4
 
